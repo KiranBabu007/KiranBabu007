@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=KiranBabu007&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KiranBabu007&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KiranBabu007&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
