@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Myself Kiran<br>⚡Pursuing BTech Computer Science and Engineering in St Joseph's College of Engineering and Technology, Palai<br>🌱 I’m currently learning Frontend libraries like React.js
+🔭Myself Kiran<br>⚡Pursuing BTech Computer Science and Engineering in St Joseph's College of Engineering and Technology, Palai<br>🌱 I’m currently learning Node and MongoDB
 
 
 ## 🌐 Socials:
