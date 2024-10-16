@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Kiran ,a Freelance Web Developer<br>⚡Pursuing BTech Computer Science and Engineering in St Joseph's College of Engineering and Technology, Palai<br>🌱 I’m currently learning Backend Development
+🔭I'm Kiran ,a Freelance Web Developer<br>⚡Pursuing BTech Computer Science and Engineering in St Joseph's College of Engineering and Technology, Palai<br>🌱
 
 
 ## 🌐 Socials:
