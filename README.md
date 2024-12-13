@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Freelance web developer<br>FInal year BTech student at SJCET Palai<br>
+I'm a Freelance Web Developer<br>Final year BTech student at SJCET Palai<br>
 
 
 # 💻 Tech Stack:
